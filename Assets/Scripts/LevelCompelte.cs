@@ -1,6 +1,6 @@
 
 using UnityEngine;
-using UnityEngine.SceneManagement
+using UnityEngine.SceneManagement;
 public class LevelCompelte : MonoBehaviour
 {
     void LoadNextLevel() {
